@@ -20,4 +20,9 @@ Study scripts and read comments to select which script suits the best for your n
 ### Floorheat.js
 Combines Shelly 1PM along Plus Add-On with temperature sensor
 
+### Floorheat_hys.js
+Combines Shelly 1PM along Plus Add-On with temperature sensor but adds 'artificial hysteresis' to allow temp to change within specified range
+
+
+
 
