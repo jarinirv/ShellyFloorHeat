@@ -20,3 +20,4 @@ Study scripts and read comments to select which script suits the best for your n
 ### Floorheat.js
 Combines Shelly 1PM along Plus Add-On with temperature sensor
 
+
